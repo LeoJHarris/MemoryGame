@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pic\'nMix</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <color name="white">#FFFFFF</color>
+    <string name="title_activity_image_fullscreen">ImageFullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Tap For \n Next Image</string>
+    <string name="title_activity_game_memorize_images">gameMemorizeImages</string>
+    <string name="title_activity_images_input_order">ImagesInputOrder</string>
+    <string name="title_activity_options_memorize_game">OptionsMemorizeGame</string>
+</resources>

@@ -1,0 +1,10 @@
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:gravity="center"
+    android:text="Select images in the order you saw them... Click here if you need a hint!"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    tools:text="0" />
